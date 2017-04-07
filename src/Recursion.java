@@ -27,12 +27,12 @@ public class Recursion {
 		List list = new ArrayList<>();
 		list.add("a");
 		list.add("b");
-//		list.add("b");
+		list.add("b");
 		list.add("b");
 		list.add("c");
-//		list.add("b");
-//		list.add("c");
-//		list.add("c");
+		list.add("b");
+		list.add("c");
+		list.add("c");
 		System.out.println( unique( list ) );
 	}
 
